@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="1920"
+   height="441.22299"
+   viewBox="0 0 1920 441.22299"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient46">
+      <stop
+         style="stop-color:#fbec5d;stop-opacity:1;"
+         offset="0"
+         id="stop46" />
+      <stop
+         style="stop-color:#fbec5d;stop-opacity:0;"
+         offset="1"
+         id="stop47" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient33">
+      <stop
+         style="stop-color:#fbec5d;stop-opacity:1;"
+         offset="0"
+         id="stop33" />
+      <stop
+         style="stop-color:#fae704;stop-opacity:1;"
+         offset="1"
+         id="stop34" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient23">
+      <stop
+         style="stop-color:#fbec5d;stop-opacity:1;"
+         offset="0.5"
+         id="stop23" />
+      <stop
+         style="stop-color:#ad9d04;stop-opacity:1;"
+         offset="0.6033898"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient23"
+       id="linearGradient24"
+       x1="521.495"
+       y1="-96.790627"
+       x2="521.495"
+       y2="479.7908"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4509444,0,0,2.4509444,-68.688674,-102.21204)" />
+    <linearGradient
+       xlink:href="#linearGradient33"
+       id="linearGradient34"
+       x1="101.3584"
+       y1="58.380859"
+       x2="101.3584"
+       y2="205.04688"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4509444,0,0,2.4509444,-68.688674,-102.21204)" />
+    <radialGradient
+       xlink:href="#linearGradient46"
+       id="radialGradient47"
+       cx="211.53352"
+       cy="134.95999"
+       fx="211.53352"
+       fy="134.95999"
+       r="2.4606788"
+       gradientTransform="matrix(4.6483428,0,0,86.421384,-534.8314,-11442.818)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     id="rect6"
+     style="fill:url(#linearGradient34);fill-rule:evenodd;stroke:#cfbb05;stroke-width:0.823728;stroke-opacity:1"
+     d="M 81.694953,0 V 49.018886 65.366495 H 40.847475 V 114.38538 H 257.34915 v 16.3476 H 0 v 49.0189 20.67506 44.69144 h 298.19664 v 16.35239 H 0 v 49.0189 h 40.847475 v 20.05273 45.31375 H 216.49689 v 16.3476 H 81.694953 v 49.01889 H 277.77049 v -46.18497 -2.83392 -16.3476 h 40.85226 V 326.83726 H 102.12108 v -16.3476 H 359.47024 V 261.47077 243.11263 196.09949 H 61.273608 v -16.3476 H 359.47024 v -49.0189 H 318.62275 V 110.95788 65.366495 H 142.96856 V 49.018886 H 277.77049 V 0 Z" />
+  <rect
+     style="fill:url(#radialGradient47);fill-rule:evenodd;stroke-width:3.37531"
+     id="rect46"
+     width="22.876158"
+     height="425.31052"
+     x="437.0108"
+     y="7.9560509" />
+  <rect
+     style="fill:url(#linearGradient24);fill-opacity:1;fill-rule:evenodd;stroke:#caba04;stroke-width:2.45095;stroke-dasharray:none;stroke-opacity:1"
+     id="rect23"
+     width="1413.1674"
+     height="90.684937"
+     x="502.88303"
+     y="321.80136" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:287.577px;font-family:'Afacad Flux';-inkscape-font-specification:'Afacad Flux';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20.6977;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     x="491.30392"
+     y="253.00726"
+     id="text51"><tspan
+       x="491.30392"
+       y="253.00726"
+       id="tspan52"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:287.577px;font-family:'Afacad Flux';-inkscape-font-specification:'Afacad Flux';fill:#ffffff;fill-opacity:1;stroke-width:20.6977">MAIZE BANK</tspan></text>
+</svg>

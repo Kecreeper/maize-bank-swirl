@@ -1,0 +1,88 @@
+.afacad-flux-500 {
+  font-family: "Afacad Flux", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+
+body {
+    background-color: #0d1117;
+    width: 1200px;
+    margin: auto;
+}
+
+#container {
+    background-color: #17171d;
+    height: 100vh;
+    margin-top: 10px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+#main-mb {
+    width: 300px
+}
+
+#hr {
+    border-color: #fbec5d;
+    height: 3px;
+    background: #fbec5d;
+}
+
+#topbar {
+    background-image: linear-gradient(#bfb449, #fbec5d);
+    font-size: x-large;
+    margin-top: 20px;
+}
+
+#topbar-firstline {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#topbar-left {
+    margin-left: 20px;
+}
+
+#topbar-right {
+    margin-right: 20px;
+}
+
+#topbar-bottom {
+    display: block;
+    text-align: center;
+}
+
+#building {
+    display: block;
+    margin: auto;
+}
+
+#locations {
+    color: white;
+    text-align: center;
+}
+
+#buttons {
+    display: grid;
+    justify-content: center;
+}
+
+#buttons button{
+    border: 1.5px solid black;
+    border-radius: 3px;
+    color: black;
+    margin: 10px;
+    font-size: 130%;
+    background-image: linear-gradient(#fbec5d, #bfb449);
+    height: 60px;
+    width: 300px;
+}
+
+#buttons button:hover {
+    background-image: linear-gradient(#bfb449, #fbec5d);
+    border: 2px solid black;
+}
