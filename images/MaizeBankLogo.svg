@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="360.29398"
+   height="442.04636"
+   viewBox="0 0 360.29398 442.04635"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient33">
+      <stop
+         style="stop-color:#fbec5d;stop-opacity:1;"
+         offset="0"
+         id="stop33" />
+      <stop
+         style="stop-color:#fae704;stop-opacity:1;"
+         offset="1"
+         id="stop34" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient33"
+       id="linearGradient34"
+       x1="101.3584"
+       y1="58.380859"
+       x2="101.3584"
+       y2="205.04688"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4509444,0,0,2.4509444,-68.27681,-101.80018)" />
+  </defs>
+  <path
+     id="rect6"
+     style="fill:url(#linearGradient34);fill-rule:evenodd;stroke:#cfbb05;stroke-width:0.823728;stroke-opacity:1"
+     d="M 82.106817,0.41186401 V 49.43075 65.778359 H 41.259339 V 114.79724 H 257.76101 v 16.3476 H 0.41186401 v 49.0189 20.67506 44.69144 H 298.6085 v 16.35239 H 0.41186401 v 49.0189 H 41.259339 v 20.05273 45.31375 H 216.90875 v 16.3476 H 82.106817 V 441.6345 H 278.18235 v -46.18497 -2.83392 -16.3476 h 40.85226 V 327.24912 H 102.53294 v -16.3476 H 359.8821 V 261.88263 243.52449 196.51135 H 61.685472 v -16.3476 H 359.8821 v -49.0189 H 319.03461 V 111.36974 65.778359 H 143.38042 V 49.43075 H 278.18235 V 0.41186401 Z" />
+</svg>

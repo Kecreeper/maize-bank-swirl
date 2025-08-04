@@ -1,30 +1,34 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="index.css" />
         <style>
             @import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
         </style>
     </head>
     <body class="afacad-flux-500">
-        <div id="container">
-            <img id="main-mb" src="images/MaizeBankWhite.svg" />
-            <hr id="hr">
-            <div id="topbar">
-                <div id="topbar-firstline">
-                    <div id="topbar-left"> Name goes here... </div>
-                    <div id="topbar-right"> Balance: $0 </div>
-                </div>
-                <p id="topbar-bottom"> Our locations: </p>
-            </div>
-            <div>
-                <img id="building" src="images/building.jpg" />
-                <p id="locations"> A local bank is available in your nearest maize field! </p>
-            </div>
-            <div id="buttons">
-                <button> Deposit $0 </button>
-                <button> Withdraw $0 </button>
-            </div>
+        <img id="logo" src="images/MaizeBankLogo.svg" />
+        <div id="body1">
+            <p class="playfair-display" id="motto1">
+                Loaning out maize since
+            </p>
+            <p class="pinyon-script-regular" id="motto2">
+                2025
+            </p>
+        </div>
+        <div id="buttons">
+            <a href="/account.html">
+                <button class="button">
+                    Account
+                </button>
+            </a>
+            <a href="/locations.html">
+                <button class="button">
+                    Locations
+                </button>
+            </a>
         </div>
     </body>
 </html>
